@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LD3985M33R
+#
+DEF LD3985M33R U 0 40 Y Y 1 L N
+F0 "U" -400 430 50 H V L BNN
+F1 "LD3985M33R" -400 -500 50 H V L BNN
+F2 "SOT95P280X145-5N" 0 0 50 H I L BNN
+F3 "Ultra low drop-low noise BiCMOS voltage regulators low ESR capacitors compatible" 0 0 50 H I L BNN
+F4 "STMicroelectronics" 0 0 50 H I L BNN
+F5 "Unavailable" 0 0 50 H I L BNN
+F6 "SOT-23-5 STMicroelectronics" 0 0 50 H I L BNN
+F7 "None" 0 0 50 H I L BNN
+F8 "LD3985M33R" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 -400 400 400 400 N
+P 2 0 0 6 400 400 400 -400 N
+P 2 0 0 6 400 -400 -400 -400 N
+P 2 0 0 6 -400 -400 -400 400 N
+X VIN 1 -600 200 200 R 40 40 0 0 I 
+X VOUT 5 600 200 200 L 40 40 0 0 O 
+X GND 2 600 -300 200 L 40 40 0 0 W 
+X VINH 3 -600 100 200 R 40 40 0 0 I 
+X BYPASS 4 -600 -100 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

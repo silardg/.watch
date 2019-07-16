@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name watch)(type Legacy)(uri ${KIPRJMOD}/Lib/watch.lib)(options "")(descr ""))
+  (lib (name LD3985M33R)(type Legacy)(uri ${KIPRJMOD}/Lib/Symbol/LD3985M33R.lib)(options "")(descr ""))
+  (lib (name TP4056)(type Legacy)(uri ${KIPRJMOD}/Lib/Symbol/TP4056.lib)(options "")(descr ""))
+)

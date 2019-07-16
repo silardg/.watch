@@ -1,0 +1,70 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+SOT95P280X145-5N
+$EndINDEX
+$MODULE SOT95P280X145-5N
+Po 0 0 0 15 00000000 00000000 ~~
+Li SOT95P280X145-5N
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 0 -3.175 1 1 0 0.05 N V 21 "SOT95P280X145-5N"
+T1 0.635 3.175 1 1 0 0.05 N V 21 "VAL**"
+DS -0.8 -1.48 -0.8 1.48 0.127 27
+DS -0.8 1.48 0.8 1.48 0.127 27
+DS 0.8 1.48 0.8 -1.48 0.127 27
+DS 0.8 -1.48 -0.8 -1.48 0.127 27
+DS 0.8 -1.6 -0.8 -1.6 0.127 21
+DS -0.8 1.6 0.8 1.6 0.127 21
+DC -2.5 -1.1 -2.4 -1.1 0.2 21
+DC -2.5 -1.1 -2.4 -1.1 0.2 27
+DS -2.06 -1.73 2.06 -1.73 0.05 26
+DS 2.06 -1.73 2.06 1.73 0.05 26
+DS 2.06 1.73 -2.06 1.73 0.05 26
+DS -2.06 1.73 -2.06 -1.73 0.05 26
+$PAD
+Sh "1" R 1.32 0.59 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.145 -0.95
+$EndPAD
+$PAD
+Sh "2" R 1.32 0.59 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.145 0
+$EndPAD
+$PAD
+Sh "3" R 1.32 0.59 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.145 0.95
+$EndPAD
+$PAD
+Sh "4" R 1.32 0.59 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.145 0.95
+$EndPAD
+$PAD
+Sh "5" R 1.32 0.59 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 1.145 -0.95
+$EndPAD
+$EndMODULE SOT95P280X145-5N

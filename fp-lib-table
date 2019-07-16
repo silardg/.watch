@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name watch)(type KiCad)(uri ${KIPRJMOD}/Lib/watch.pretty)(options "")(descr ""))
+  (lib (name LD3985M33R)(type Legacy)(uri ${KIPRJMOD}/Lib/Footprint/LD3985M33R.mod)(options "")(descr ""))
+  (lib (name TP4056)(type Legacy)(uri ${KIPRJMOD}/Lib/Footprint/TP4056.mod)(options "")(descr ""))
+)
